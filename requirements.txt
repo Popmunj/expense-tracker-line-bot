@@ -1,0 +1,6 @@
+line-bot-sdk
+pymongo[srv]
+python-dateutil
+numpy
+pandas 
+python-dotenv

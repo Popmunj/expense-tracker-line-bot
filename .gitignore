@@ -1,0 +1,6 @@
+.env
+dep/
+.vscode/
+.DS_Store
+csv/
+command.sh
